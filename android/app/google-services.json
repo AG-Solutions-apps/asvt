@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126017152083",
+    "project_id": "singleclick-13280",
+    "storage_bucket": "singleclick-13280.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126017152083:android:38a6fbbf5a750a56c452a6",
+        "android_client_info": {
+          "package_name": "ags.matrimony.asvtbangalore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126017152083-vpm3pi3ggmrmf211c63fmdjuadmn1dhp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc5j805URN9GPfM_yNZUH9X7EBuJBkdws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126017152083-vpm3pi3ggmrmf211c63fmdjuadmn1dhp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
